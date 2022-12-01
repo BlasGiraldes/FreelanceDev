@@ -1,4 +1,4 @@
-# Dise-oFreelance
+# BlasFreelance
 Primer proyecto Web basado solo en HTML y CSS
 
 Se busca un diseño sobre una pagina freelance en el cual tenga distintos modulos como informacion y contacto.
